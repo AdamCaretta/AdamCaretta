@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamCaretta
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and C#
+- 👀 I’m interested in Game Development, Web Development
+- 🌱 I’m currently learning Python
 - 📫 How to reach me - adamcarettacoding@gmail.com
 
 <!---
