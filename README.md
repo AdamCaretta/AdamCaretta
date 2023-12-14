@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AdamCaretta
-- 👀 I’m interested in Game Development, Web Development
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @AdamCaretta and I am currently in school for Cybersecurity
+- 👀 I’m interested in Game Development, Web Development, and obviously security related roles
+- 🌱 I’m currently learning Python at my local community college
 - 📫 How to reach me - adamcarettacoding@gmail.com
 
 <!---
